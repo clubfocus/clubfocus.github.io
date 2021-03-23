@@ -186,8 +186,7 @@ input::-webkit-input-placeholder{
   margin-right: 5px;
   margin-top: 2.5px;
 }
-/* 夜晚自动神色模式
-
+/*
 body.night .board {
   background: #2c2e2f;
   box-shadow: 0px 0px 6px #00000061;
@@ -378,7 +377,7 @@ body.night .search-engine {
 body.night .search-engine-list li {
   background: #424242;
 }
-
+*/
 .go-up{
   right: 10px !important;
   position: fixed !important;
@@ -386,16 +385,18 @@ body.night .search-engine-list li {
   height: 20px;
 }
 
+/*
 body.night .go-up a {
-  background-color: rgb(88 88 88) !important;
+  background-color: rgb(242 242 242) !important;
   padding: 15px 20px !important;
   border-radius: 50% !important;
 }
 
 body.night .go-up a:hover {
-  background-color: rgb(123 123 123) !important;
+  background-color: rgb(250 250 250) !important;
 }
 */
+
 .footer-inner #busuanzi_container_site_pv,
 .footer-inner #busuanzi_container_site_uv {
   font-weight: bold;
