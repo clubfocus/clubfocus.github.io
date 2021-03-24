@@ -20,6 +20,7 @@
 .linecons-trash:before { content: '\e812'; } /* '' */
 .linecons-doc:before { content: '\e813'; } /* '' */
 .linecons-note:before { content: '\e814'; } /* '' */
+.linecons-cog:before { content: '\e815'; } /* '' */
 .linecons-params:before { content: '\e816'; } /* '' */
 .linecons-calendar:before { content: '\e817'; } /* '' */
 .linecons-sound:before { content: '\e818'; } /* '' */
